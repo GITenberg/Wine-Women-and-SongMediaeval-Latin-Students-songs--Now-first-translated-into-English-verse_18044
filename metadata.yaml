@@ -1,0 +1,32 @@
+_repo: Wine-Women-and-SongMediaeval-Latin-Students-songs--Now-first-translated-into-English-verse_18044
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Symonds, John Addington
+    alias: Symonds, J. A. (John Addington)
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '1504'
+    url: http://www.gutenberg.org/2009/agents/1504
+    wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2006-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goliards -- Songs and music -- Texts'
+- !lcc 'PA'
+- !lcsh 'Students'' songs -- Europe -- Texts'
+- !lcsh 'Songs, Latin (Medieval and modern) -- Translations into English'
+title: 'Wine, Women, and Song
+
+  Mediaeval Latin Students'' songs; Now first translated into English verse'
+url: http://www.gutenberg.org/ebooks/18044
